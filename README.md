@@ -103,3 +103,19 @@ A partir desses dados, foram realizadas análises exploratórias, comparações 
   - dashboard_looker.pdf → capturas do dashboard
   
   - README.md → documentação do projeto
+
+    ***🚀 Como Reproduzir***
+
+- Clone este repositório:
+
+      git clone https://github.com/usuario/projeto-analise-global-financeira.git
+
+
+- Instale as dependências:
+
+      pip install pandas matplotlib seaborn jupyter
+
+
+- Abra o notebook e rode a análise:
+
+      jupyter notebook eda_global_finance.ipynb
