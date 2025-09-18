@@ -1,0 +1,1 @@
+# An-lise-Global-Financeira-2024
